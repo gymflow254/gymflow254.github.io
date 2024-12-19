@@ -1,0 +1,1 @@
+import{p as s}from"./BEgGxKQA.js";const a=s("/assets/images/png_icons/visa.png"),n=s("/assets/images/png_icons/am.png"),i=s("/assets/images/png_icons/discover.png"),o=s("/assets/images/png_icons/paypal.png"),t=s("/assets/images/png_icons/jcb.png"),_=s("/assets/images/png_icons/shopify.png");export{a as _,n as a,i as b,o as c,t as d,_ as e};

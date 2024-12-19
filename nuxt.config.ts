@@ -32,6 +32,8 @@ export default defineNuxtConfig({
     "~/assets/css/color-scheme/violet.scss",
   ],
 
+  target: "static",
+
   app: {
     head: {
       meta: [

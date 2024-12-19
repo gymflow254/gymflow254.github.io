@@ -1,0 +1,1 @@
+import{p as s}from"./BEgGxKQA.js";const p=s("/assets/images/projects/project-05.jpg"),o=s("/assets/images/projects/project-02.jpg"),e=s("/assets/images/projects/project-03.jpg"),r=s("/assets/images/projects/project-04.jpg");export{p as _,o as a,e as b,r as c};
